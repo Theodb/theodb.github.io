@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Théo Deschamps-Berger"
-  avatar           : "images/bio_photo.jpeg"
+  avatar           : "assets/images/bio_photo.jpeg"
   bio              : "PhD student"
   location         : "Orsay / Paris, France"
   email            : 
@@ -119,7 +119,7 @@ author:
       url: "https://www.linkedin.com/in/theodb/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/theo_deschamps/"
 
 # Site Footer
 footer:
